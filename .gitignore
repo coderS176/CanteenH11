@@ -1,0 +1,17 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+app/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+app/firebase/canteen-h11-firebase-adminsdk-3tts3-549b9e1e16.json
+app/build
