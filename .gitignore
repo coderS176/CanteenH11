@@ -15,3 +15,5 @@ app/build
 local.properties
 app/firebase/canteen-h11-firebase-adminsdk-3tts3-549b9e1e16.json
 app/build
+google-services.json
+credentials.json
