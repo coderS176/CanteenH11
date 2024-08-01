@@ -106,7 +106,7 @@ public class SignupActivity extends AppCompatActivity {
                                     user.put("scholar_no", scholar_no);
                                     user.put("fcm_token", token);  // Add FCM token to the user data
 
-                                    documentReference.set(user).addOnSuccessListene                                     r(new OnSuccessListener<Void>() {
+                                    documentReference.set(user).addOnSuccessListener(new OnSuccessListener<Void>() {
                                         @Override
                                         public void onSuccess(Void unused) {
                                             Log.d(TAG, "User profile created successfully for user:" + userId);
